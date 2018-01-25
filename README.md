@@ -1,2 +1,2 @@
 # epryan.github.io
-www.ryansip.com
+My personal homepage (Ryan's IP): www.ryansip.com
